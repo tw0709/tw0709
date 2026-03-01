@@ -38,13 +38,6 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=tw0709&theme=tokyonight&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tw0709&layout=compact&theme=tokyonight)
-
 ![Streak](https://streak-stats.demolab.com?user=tw0709&theme=tokyonight)
 
 ---
----
-
-> “If it can be optimized, I will optimize it.” 😈
