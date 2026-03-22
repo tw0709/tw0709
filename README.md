@@ -1,4 +1,4 @@
-※Written with a little help from ChatGPT
+※Written with a help from ChatGPT
 # 👋 안녕하세요, 𝚃𝚊𝚎𝚠𝚘𝚘𝚗𝚐입니다 :)
 
 ---
