@@ -1,15 +1,14 @@
 ※Written with a help from ChatGPT
-# 👋 안녕하세요, 𝚃𝚊𝚎𝚠𝚘𝚘𝚗𝚐입니다 :)
+# 👋 안녕하세요, 𝚃𝚊𝚎𝚠𝚘𝚘𝚗𝚐입니다!
 
 ---
 
 ## 💻 About Me
 
-- 🐍 Python을 주로 사용
-- 🤖 Discord bot 만들어봄
-- 🧱 Minecraft server 운영중
-- 🖥️ 효율을 잘 생각
-- 🧪 OS, BIOS, Linux, Windows 다 건드려봄
+- Python을 주로 사용
+- Discord bot 만들기
+- Minecraft server 운영 경험
+- 🧪 OS, BIOS, Linux, Windows 다 건드려본 평?범한 중학생
 
 ---
 
@@ -29,10 +28,9 @@
 
 ## ⚙️ What I Like Doing
 
-- 🧠 귀찮은것 자동화하기
-- 📈 더 빠르게 최적화하기
-- 🛠 디버그하며 같이 예외처리
-- 🎨 *완벽*을 느낄때까지 1px씩 움직여보기
+- 귀찮은것 자동화하기
+- 디버그하며 같이 예외처리
+- *완벽*을 느낄때까지 고치다 새벽 3시에 자기
 
 ---
 
