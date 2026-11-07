@@ -8,7 +8,7 @@
 - Python을 주로 사용
 - Discord bot 만들기
 - Minecraft server 운영 경험
-- 🧪 OS, BIOS, Linux, Windows 다 건드려본 평?범한 중학생
+- OS, BIOS, Linux, Windows 다 건드려본 평?범한 중학생
 
 ---
 
