@@ -5,6 +5,7 @@
 
 ## 💻 About Me
 
+- 부원중학교 재학생
 - Python을 주로 사용
 - Discord bot 만들기
 - Minecraft server 운영 경험
